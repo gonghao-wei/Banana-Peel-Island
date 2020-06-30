@@ -58,7 +58,7 @@
 20. 賢者之丘 (Philosopher's Hill)
     > 🎵：春暖花開 (Spring Blossoms)
     >
-    > 🐔：烏骨雞 (Ken)
+    > 🐔：烏骨雞 (Ken) 🚪：典雅波斯菊花圈 (Chic Cosmos Wreath)
 
     ![賢者之丘 (Philosopher's Hill)](./images/賢者之丘.jpg)
 21. 濱海婚宴 (Coastal Wedding)
@@ -74,25 +74,25 @@
 25. 蘑菇谷 (Mushroom Valley)
     > 🎵：K.K.鄉村 (K.K. Country)
     >
-    > 🐏：溫蒂 (Frita)
+    > 🐏：溫蒂 (Frita) 🚪：蘑菇花圈 (Mushroom Wreath)
 
     ![蘑菇谷 (Mushroom Valley)](./images/蘑菇谷.jpg)
 26. 百花谷 (The Valley of Flowers)
     > 🎵：義大利麵 (Neapolitan)
     >
-    > 🐏：茶茶丸 (Dom)
+    > 🐏：茶茶丸 (Dom) 🚪：精美百合花圈 (Fancy Lily Wreath)
 
     ![百花谷 (The Valley of Flowers)](./images/百花谷.jpg)
 27. 失落之森 (The Lost Forest)
     > 🎵：我的歸所 (My Place)
     >
-    > 🐸：鏘鏘 (Ribbot)
+    > 🐸：鏘鏘 (Ribbot) 🚪：清新三色堇花圈 (Cool Pansy Wreath)
 
     ![失落之森 (The Lost Forest)](./images/失落之森.jpg)
 28. 娜娜花圃 (Lolly's Flowerbed)
     > 🎵：拉格泰姆音樂 (K.K. Ragtime)
     >
-    > 🐱：檸檬娜 (Lolly)
+    > 🐱：檸檬娜 (Lolly) 🚪：可愛波斯菊花圈 (Pretty Cosmos Wreath)
 
     ![娜娜花圃 (Lolly's Flowerbed)](./images/娜娜花圃.jpg)
 29. 娜娜下午茶 (Lolly's Tea Time)
@@ -102,27 +102,27 @@
 30. 傑克戶外事務所 (Raymond's Outdoor Office)
     > 🎵：極簡音樂 (Space K.K.)
     >
-    > 🐱：傑克 (Raymond)
+    > 🐱：傑克 (Raymond) 🚪：深色玫瑰花圈 (Dark Rose Wreath)
 
     ![傑克戶外事務所 (Raymond's Outdoor Office)](./images/傑克戶外事務所.jpg)
 31. 偶像舞台 (Idol Stage)
     > 🎵：K.K.迪斯可 (K.K. Disco)
     >
-    > 🐱：瑪莎 (Dotty)
+    > 🐱：瑪莎 (Dotty) 🚪：復活節花圈 (Bunny Day Wreath)
 
     ![偶像舞台 (Idol Stage)](./images/偶像舞台.jpg)
 32. 星月莊 (Moon Star Villa)
     > 🎵：藍色飯糰 (Stale Cupcakes)
     >
-    > 🐱：圓圓 (Mitzi)
+    > 🐱：圓圓 (Mitzi) 🚪：玫瑰花圈 (Rose Wreath)
     >
-    > 🐱：小玉 (Purrl)
+    > 🐱：小玉 (Purrl) 🚪：精美玫瑰花圈 (Fancy Rose Wreath)
 
     ![星月莊 (Moon Star Villa)](./images/星月莊.jpg)
 33. 小村鎮觀景台 (Village Lookout)
     ![小村鎮觀景台 (Village Lookout)](./images/小村鎮觀景台.jpg)
 34. 樂音花海 (Melody Sea of Flowers)
-    > 🐺：史培亞 (Fang)
+    > 🐺：史培亞 (Fang) 🚪：雪花花圈 (Snowflake Wreath)
 
     ![樂音花海 (Melody Sea of Flowers)](./images/樂音花海.jpg)
 35. 玫瑰博物館 (Rose Museum)
@@ -131,6 +131,8 @@
     ![馬蹄灣 (Blue Rose Garden)](./images/湛藍玫瑰園.jpg)
 37. 義工之家 (Volunteer's House)
     > 🎵：K.K.鄉村搖滾 (K.K. Rockabilly)
+
+    > 🐱：我 (Me) 🚪：徽章門牌 (Crest Doorplate)
 
     ![義工之家 (Volunteer's House)](./images/義工之家.jpg)
 38. 客廳 (Living Room)
