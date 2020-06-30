@@ -46,7 +46,7 @@
 26. 失落之森 (The Lost Forest)
     > 🎵：我的歸所 (My Place)
     >
-    > 鏘鏘 (Ribbot)
+    > 🐸：鏘鏘 (Ribbot)
 27. 娜娜花圃 (Lolly's Flowerbed)
     > 🎵：格拉泰姆音樂 (K.K. Ragtime)
     >
