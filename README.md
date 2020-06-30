@@ -90,7 +90,7 @@
 
     ![失落之森 (The Lost Forest)](./images/失落之森.jpg)
 28. 娜娜花圃 (Lolly's Flowerbed)
-    > 🎵：格拉泰姆音樂 (K.K. Ragtime)
+    > 🎵：拉格泰姆音樂 (K.K. Ragtime)
     >
     > 🐱：檸檬娜 (Lolly)
 
