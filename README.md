@@ -135,19 +135,25 @@
     ![義工之家 (Volunteer's House)](./images/義工之家.jpg)
 38. 客廳 (Living Room)
     > 🎵：K.K.進行曲 (K.K. March)
+
     ![客廳 (Living Room)](./images/客廳.jpg)
 39. 廚房 (Kitchen)
     > 🎵：前天 (Two Days Ago)
+
     ![廚房 (Kitchen)](./images/廚房.jpg)
 40. 廁所 (Bathroom)
     > 🎵：K.K.領主 (King K.K.)
+
     ![廁所 (Bathroom)](./images/廁所.jpg)
 41. 音樂房 (Music Room)
     > 🎵：K.K.奏鳴曲 (K.K. Sonata)
+
     ![音樂房 (Music Room)](./images/音樂房.jpg)
 42. 臥室 (Bedroom)
     > 🎵：K.K.搖籃曲 (K.K. Lullaby)
+
     ![臥室 (Bedroom)](./images/臥室.jpg)
 43. 辦公室 (Office)
     > 🎵：K.K.皓室 (K.K. House)
+
     ![辦公室 (Office)](./images/辦公室.jpg)
