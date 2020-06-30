@@ -4,7 +4,7 @@
 ![Map](./images/map.jpg)
 
 ### 1. 門口 (Entrance)
-> 🎵：[散散步 (K.K. Stroll)](https://www.youtube.com/watch?v=pMmNGG1Qw7g){:target="_blank"}
+> 🎵：[散散步 (K.K. Stroll)](https://www.youtube.com/watch?v=pMmNGG1Qw7g)
 ### 2. 四方花街 (Rectangular Flower Street)
 ![四方花街 (Rectangular Flower Street)](./images/四方花街.jpg)
 ### 3. 島民交誼廳 (Villagers' Lounge)
