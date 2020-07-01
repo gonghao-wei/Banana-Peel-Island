@@ -1,7 +1,8 @@
 # 香蕉皮絆島 (Banana Peel Island)
 
 ## 地圖 (Map)
-![Map](./images/map-with-numbers.jpg)
+![Map](./images/map.jpg)
+![Map](./images/map-with-numbers-only.jpg)
 
 ### 1. 門口 (Entrance)
 > 🎵：[散散步 (K.K. Stroll)](https://www.youtube.com/watch?v=pMmNGG1Qw7g)
