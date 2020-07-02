@@ -164,7 +164,7 @@
 ![小村鎮觀景台 (Village Lookout)](./images/小村鎮觀景台.jpg)
 
 ### 36. 樂音花海 (Melody Sea of Flowers)
-> 🐺：史培亞 (Fang) 🚪：貝殼花圈 (Shell Wreath)
+> 🐺：史培亞 (Fang) 🚪：藍色玫瑰花圈 (Blue Rose Wreath)
 
 ![樂音花海 (Melody Sea of Flowers)](./images/樂音花海.jpg)
 
