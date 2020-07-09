@@ -88,7 +88,7 @@
 ### 21. 賢者之丘 (Philosopher's Hill)
 > 🎵：[春暖花開 (Spring Blossoms)](https://www.youtube.com/watch?v=PYP3YlGj12w)
 >
-> 🐔：烏骨雞 (Ken) 🚪：典雅波斯菊花圈 (Chic Cosmos Wreath)
+> 🐱：莎莎 (Merry) 🚪：典雅波斯菊花圈 (Chic Cosmos Wreath)
 
 ![賢者之丘 (Philosopher's Hill)](./images/賢者之丘.jpg)
 
@@ -109,7 +109,7 @@
 ### 26. 蘑菇谷 (Mushroom Valley)
 > 🎵：[K.K.鄉村 (K.K. Country)](https://www.youtube.com/watch?v=SUIKHUrfP0w)
 >
-> 🐏：溫蒂 (Frita) 🚪：三色堇花圈 (Pansy Wreath)
+> 🐱：爾光 (Punchy) 🚪：三色堇花圈 (Pansy Wreath)
 
 ![蘑菇谷 (Mushroom Valley)](./images/蘑菇谷.jpg)
 
