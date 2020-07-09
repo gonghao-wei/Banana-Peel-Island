@@ -123,7 +123,7 @@
 ### 28. 失落之森 (The Lost Forest)
 > 🎵：[我的歸所 (My Place)](https://www.youtube.com/watch?v=VFD20e_wIqY)
 >
-> 🐏：茶茶丸 (Dom) 🚪：樹枝花圈 (Tree Branch Wreath)
+> 🐏：茶茶丸 (Dom) 🚪：紫色風信子花圈 (Purple Hyacinth Wreath)
 
 ![失落之森 (The Lost Forest)](./images/失落之森.jpg)
 
