@@ -1,5 +1,10 @@
 # 香蕉皮絆島 (Banana Peel Island)
 
+## 影片 (Video)
+![【集合啦！動物森友會】91-參觀香蕉皮絆島(Animal Crossing) (2020) - 魏巍](./images/video.jpg)
+
+[【集合啦！動物森友會】91-參觀香蕉皮絆島(Animal Crossing) (2020) - 魏巍](https://www.youtube.com/watch?v=FO28-_z2m20)
+
 ## 地圖 (Map)
 ![Map](./images/map.jpg)
 ![Map](./images/map-with-numbers.jpg)
