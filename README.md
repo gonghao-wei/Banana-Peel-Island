@@ -88,7 +88,7 @@
 ### 21. 賢者之丘 (Philosopher's Hill)
 > 🎵：[春暖花開 (Spring Blossoms)](https://www.youtube.com/watch?v=PYP3YlGj12w)
 >
-> 🐱：莎莎 (Merry) 🚪：典雅波斯菊花圈 (Chic Cosmos Wreath)
+> 🐔：烏骨雞 (Ken) 🚪：典雅波斯菊花圈 (Chic Cosmos Wreath)
 
 ![賢者之丘 (Philosopher's Hill)](./images/賢者之丘.jpg)
 
@@ -109,14 +109,14 @@
 ### 26. 蘑菇谷 (Mushroom Valley)
 > 🎵：[K.K.鄉村 (K.K. Country)](https://www.youtube.com/watch?v=SUIKHUrfP0w)
 >
-> 🐱：爾光 (Punchy) 🚪：三色堇花圈 (Pansy Wreath)
+> 🐱：莎莎 (Merry) 🚪：三色堇花圈 (Pansy Wreath)
 
 ![蘑菇谷 (Mushroom Valley)](./images/蘑菇谷.jpg)
 
 ### 27. 百花谷 (The Valley of Flowers)
 > 🎵：[義大利麵 (Neapolitan)](https://www.youtube.com/watch?v=qtMZOdlUAcE)
 >
-> 🦆：亞美 (Molly) 🚪：精美百合花圈 (Fancy Lily Wreath)
+> 🦆：亞美 (Molly) 🚪：清新銀蓮花花圈 (Cool Windflower Wreath)
 
 ![百花谷 (The Valley of Flowers)](./images/百花谷.jpg)
 
@@ -127,17 +127,17 @@
 
 ![失落之森 (The Lost Forest)](./images/失落之森.jpg)
 
-### 29. 娜娜花圃 (Lolly's Flowerbed)
+### 29. 可愛花圃 (Lovely Flowerbed)
 > 🎵：[拉格泰姆音樂 (K.K. Ragtime)](https://www.youtube.com/watch?v=P2U1x18vs3g)
 >
-> 🐱：檸檬娜 (Lolly) 🚪：可愛波斯菊花圈 (Pretty Cosmos Wreath)
+> 🐱：莉莉安 (Bunnie) 🚪：可愛波斯菊花圈 (Pretty Cosmos Wreath)
 
-![娜娜花圃 (Lolly's Flowerbed)](./images/娜娜花圃.jpg)
+![可愛花圃 (Lovely Flowerbed)](./images/可愛花圃.jpg)
 
-### 30. 娜娜下午茶 (Lolly's Tea Time)
+### 30. 悠閒下午茶 (Tea Time Area)
 > 🎵：[K.K.靈魂樂 (K.K. Soul)](https://www.youtube.com/watch?v=-uLsTjUtGZk)
 
-![娜娜下午茶 (Lolly's Tea Time)](./images/娜娜下午茶.jpg)
+![悠閒下午茶 (Tea Time Area)](./images/悠閒下午茶.jpg)
 
 ### 31. 傑克戶外事務所 (Raymond's Outdoor Office)
 > 🎵：[極簡音樂 (Space K.K.)](https://www.youtube.com/watch?v=9obUpSUaiq4)
