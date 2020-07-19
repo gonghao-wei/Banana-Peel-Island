@@ -152,7 +152,7 @@
 ![偶像舞台 (Idol Stage)](./images/偶像舞台.jpg)
 
 ### 33. 點心廣場 (Snack Square)
-> 🐱：莎莎 (Merry) 🚪：三色堇花圈 (Pansy Wreath)
+> 🐱：莎莎 (Merry) 🚪：金色玫瑰花圈 (Gold Rose Wreath)
 
 ![點心廣場 (Snack Square)](./images/點心廣場.jpg)
 
