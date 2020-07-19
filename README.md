@@ -109,7 +109,7 @@
 ### 26. 蘑菇谷 (Mushroom Valley)
 > 🎵：[K.K.鄉村 (K.K. Country)](https://www.youtube.com/watch?v=SUIKHUrfP0w)
 >
-> 🐱：莎莎 (Merry) 🚪：三色堇花圈 (Pansy Wreath)
+> 🐱：小潤 (Marshal) 🚪：深色百合花圈 (Dark Lily Wreath)
 
 ![蘑菇谷 (Mushroom Valley)](./images/蘑菇谷.jpg)
 
@@ -130,7 +130,7 @@
 ### 29. 可愛花圃 (Lovely Flowerbed)
 > 🎵：[拉格泰姆音樂 (K.K. Ragtime)](https://www.youtube.com/watch?v=P2U1x18vs3g)
 >
-> 🐱：莉莉安 (Bunnie) 🚪：可愛波斯菊花圈 (Pretty Cosmos Wreath)
+> 🐱：檸檬娜 (Lolly) 🚪：可愛波斯菊花圈 (Pretty Cosmos Wreath)
 
 ![可愛花圃 (Lovely Flowerbed)](./images/可愛花圃.jpg)
 
@@ -152,7 +152,7 @@
 ![偶像舞台 (Idol Stage)](./images/偶像舞台.jpg)
 
 ### 33. 點心廣場 (Snack Square)
-> 🐰：瑪莎 (Dotty) 🚪：復活節花圈 (Bunny Day Wreath)
+> 🐱：莎莎 (Merry) 🚪：三色堇花圈 (Pansy Wreath)
 
 ![點心廣場 (Snack Square)](./images/點心廣場.jpg)
 
